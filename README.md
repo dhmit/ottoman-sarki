@@ -1,9 +1,8 @@
 # Ottoman Sarki Project
 
-This is a repository of pre-WWI Ottoman music from a publication entitled "Chants Turcs" published in Istanbul. This repo is a part of a project at MIT to create encodings and analyses of this repertoire.
+This is a repository of pre-WWI Ottoman music from a publication entitled "Chants Turcs" published in Istanbul. This repo is a part of a project at MIT to encode the music in order to analyze this repertoire.
 
-As of the end of Spring 2021, MusicXML files of all the music available for computational analysis.
+Currently (Spring 2023), as part of the  MIT Digital Humanities Lab, we are completing proofreading all files and saving them as MuseScore files as well as .musicxml files. Files that we are confident about are in the Corrected Verions folder, files in which the notation is unclear are located in the Questionable Scores folder.
 
-In Spring 2023, in collaboration with the MIT DH Lab, we intend to create methods to identify the mode of each of the pieces in this corpus.
 
 For further questions email Garo Saraydarian at garo@mit.edu
