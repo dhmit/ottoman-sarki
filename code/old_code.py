@@ -1,6 +1,25 @@
 import os
 from xml import etree as et
 
+ALL_NAMES = [
+  "Rast", "Evc", "Rehavi", "Pençgâh", "Sazkar", "Sâzkâr", "Nevâ", "Neva Büselik", "Tahir", "Tâhir Büselik", "Hüseyni", "Hüseyni ‘Asiran", "Gülizâr", "Yegâh", "Beyâti Araban", "Muhayyer", "Muhayyer Büselik", "Gerdâniye",  "Gerdaniye Büselik", "Dilkeş Haveran", "Evc Büselik", "Irak",
+  "Acem Kürdi", "Acem Asiran", "Kürdi", "Muhayyer-Kiird",
+  "Muhayyer Siinbiile", "Saba", "Saba Blselik", "Saba-Zemzeme", "Bestenigar", "Şevk Efza", "Sevk-i Tarab", "Şevk ü Tarab",
+  "Ussak", "Beyati", "Beyati- Buselik", "Isfahan", "Berte-Isfahan", "Hisar",
+  "Nisaburek", "Eve Ara", "Ferahnak",
+  "Suzidilara", "Mahur", "Mahur-Buselik", "Zavil",
+  "Nikriz", "Sehnaz",
+  "Hisar-Buselik", "Suzdi",
+  "Segah", "Mistear",
+  "Hlzzam", "Karcigar", "Beyati Araban-Buselik",
+  "Kurdili Hicazkar",
+  "Hicazkar",
+  "Neveser",
+  "Hicaz", "Hicaz Asiran", "Hicaz-Buselik",
+  "Arazbar", "Arazbar-Buselik",
+  "Buselik-Asiran",
+]
+
 NAME_TO_MSTRKS = [
   ({"Rast", "Evc", "Rehavi", "Pençgâh", "Sazkar", "Sâzkâr", "Nevâ", "Neva Büselik", "Tahir", "Tâhir Büselik", "Hüseyni", "Hüseyni ‘Asiran", "Gülizâr", "Yegâh", "Beyâti Araban", "Muhayyer", "Muhayyer Büselik", "Gerdâniye",  "Gerdaniye Büselik", "Dilkeş Haveran", "Evc Büselik", "Irak"}, ["B -0.5", "F 1"]), 
   ({"Acem Kürdi", "Acem Asiran", "Kürdi", "Muhayyer-Kiird"}, ["B -1"]), 
@@ -8,7 +27,7 @@ NAME_TO_MSTRKS = [
   "Bestenigar", "Şevk Efza", "Sevk-i Tarab", "Şevk ü Tarab"}, ["B -0.5", "D -0.25"]), 
   ({"Ussak", "Beyati", "Beyati- Buselik", "Isfahan", "Berte-Isfahan", "Hisar"}, ["B -0.5"]), 
   ({"Nisaburek", "Eve Ara", "Ferahnak"}, ["F 1", "C 1"]),
-  ({"Suzidilara", "Mahur", "Mahur-Buselik", "Zavi*"}, ["F 0.25"]),
+  ({"Suzidilara", "Mahur", "Mahur-Buselik", "Zavil"}, ["F 0.25"]),
   ({"Nikriz", "Sehnaz"}, ["B -0.25", "C 1"]), 
   ({"Hisar-Buselik", "Suzdi"}, ["F 0.5", "G 1", "D 1"]), 
   ({"Segah", "Mistear"}, ["B -0.5","E -0.5", "F 1"]), 
@@ -21,6 +40,25 @@ NAME_TO_MSTRKS = [
   ({"Buselik-Asiran"}, ["F 1"]) 
 ]
 
+def mstrks(name):
+  for names, strks in NAME_TO_MSTRKS:
+    if name in names:
+      return strks
+  assert False, "couldn't find name"
+
+NUM_TO_ACC = {
+  "-0.5": "quarter-flat",
+  "-0.25": "slash-flat",
+  "0.25": "slash-quarter-sharp",
+  "0.5": "quarter-sharp",
+}
+
+NUM_TO_KV = {
+  "-0.5": "-0.5",
+  "-0.25": "-0.25",
+  "0.25": "0.25",
+  "0.5": "0.5",
+}
 
 def strks_to_xml(strks):
   """
@@ -41,6 +79,31 @@ def strks_to_xml(strks):
   xmlstr += "<key-accidental>" + key_accidental + "</key-accidental>"
 
   return xmlstr #return the full XML.
+
+def mstrks_to_xml(mstrks):
+  return "\n".join(strks_to_xml(strks) for strks in mstrks)
+
+def insertks(filepath, xml):
+  #start with xml
+  # print("FILE PATH:", filepath)
+  tree = et.parse(filepath)
+  root = tree.getroot()
+  # print("ROOT:", root)
+
+  # """
+  # this is where we need to hard code this number.
+  # Within Musescore, our root is just the score-partwise.
+  # Now with that being said, the 6th child (index 5) is called part id="P1".
+  # Then, within that, the 1st child (index 0) is callsed measure number="1" etc
+  # And the second child (index 1) is called attributes
+  # finally, the second child within that (index 1) is called key.
+  # """
+  # desiredroot = root[5][0][1][1] #this is where the part of the key is stored
+  # print("DESIRED ROOT:", desiredroot)
+
+  key_element = root.findall("./part[@id='P1']/measure[@number='1']/attributes/key")[0]
+  key_element.text = xml
+  tree.write('output.xml')
 
 
 for folder in os.listdir(filepath): #"." refers to current directory.
@@ -68,20 +131,3 @@ for folder in os.listdir(filepath): #"." refers to current directory.
             filepath + "/" + folder + "/" + musicfile, 
             mstrks_to_xml(mstrks_cor)
           ) #gives us correct modification
-
-#start with xml
-print("FILE PATH:", filepath)
-tree = et.parse(filepath)
-root = tree.getroot()
-print("ROOT:", root)
-
-"""
-this is where we need to hard code this number.
-Within Musescore, our root is just the score-partwise.
-Now with that being said, the 6th child (index 5) is called part id="P1".
-Then, within that, the 1st child (index 0) is callsed measure number="1" etc
-And the second child (index 1) is called attributes
-finally, the second child within that (index 1) is called key.
-"""
-desiredroot = root[5][0][1][1] #this is where the part of the key is stored
-print("DESIRED ROOT:", desiredroot)

@@ -1,3 +1,4 @@
 .DS_Store
 .mscbackup/
 code/venv/
+code/.ipynb_checkpoints/
