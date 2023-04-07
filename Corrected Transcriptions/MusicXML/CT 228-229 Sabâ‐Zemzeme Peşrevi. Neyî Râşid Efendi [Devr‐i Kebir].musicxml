@@ -1,19 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <work>
-    <work-title>CT‐228 Sabâ‐Zemzeme Peşrevi. Neyî Râşid Efendi [Devr‐i Kebir]</work-title>
+    <work-title>CT 228-229 Sab&#226;&#8208;Zemzeme Pe&#351;revi. Ney&#238; R&#226;&#351;id Efendi [Devr&#8208;i Kebir]</work-title>
     </work>
   <identification>
     <creator type="composer">Composer / arranger</creator>
     <encoding>
       <software>MuseScore 4.0.2</software>
-      <encoding-date>2023-03-24</encoding-date>
-      <supports element="accidental" type="yes"/>
-      <supports element="beam" type="yes"/>
-      <supports element="print" attribute="new-page" type="yes" value="yes"/>
-      <supports element="print" attribute="new-system" type="yes" value="yes"/>
-      <supports element="stem" type="yes"/>
+      <encoding-date>2023-04-07</encoding-date>
+      <supports element="accidental" type="yes" />
+      <supports element="beam" type="yes" />
+      <supports element="print" attribute="new-page" type="yes" value="yes" />
+      <supports element="print" attribute="new-system" type="yes" value="yes" />
+      <supports element="stem" type="yes" />
       </encoding>
     </identification>
   <defaults>
@@ -37,14 +35,14 @@
         <bottom-margin>85.725</bottom-margin>
         </page-margins>
       </page-layout>
-    <word-font font-family="Edwin" font-size="10"/>
-    <lyric-font font-family="Edwin" font-size="10"/>
+    <word-font font-family="Edwin" font-size="10" />
+    <lyric-font font-family="Edwin" font-size="10" />
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="616.935" default-y="1511.05" justify="center" valign="top" font-size="22">CT 228-229 Sabâ‐Zemzeme Peşrevi.
+    <credit-words default-x="616.935" default-y="1511.05" justify="center" valign="top" font-size="22">CT 228-229 Sab&#226;&#8208;Zemzeme Pe&#351;revi.
 </credit-words>
-    <credit-words>Neyî Râşid Efendi [Devr‐i Kebir]</credit-words>
+    <credit-words>Ney&#238; R&#226;&#351;id Efendi [Devr&#8208;i Kebir]</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -53,7 +51,7 @@
       <score-instrument id="P1-I1">
         <instrument-name>Voice</instrument-name>
         </score-instrument>
-      <midi-device id="P1-I1" port="1"></midi-device>
+      <midi-device id="P1-I1" port="1" />
       <midi-instrument id="P1-I1">
         <midi-channel>1</midi-channel>
         <midi-program>53</midi-program>
@@ -301,7 +299,7 @@
         <stem>down</stem>
         </note>
       <note default-x="131.05" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>2</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -492,7 +490,7 @@
         <stem>down</stem>
         </note>
       <note default-x="108.29" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>2</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -600,7 +598,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -733,7 +731,7 @@
           </system-layout>
         </print>
       <note default-x="58.10" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
@@ -815,7 +813,7 @@
         <beam number="1">end</beam>
         </note>
       <note default-x="134.34" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>2</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -958,7 +956,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         </note>
       <note default-x="78.92" default-y="-5.00">
@@ -980,7 +978,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <accidental>flat</accidental>
         <stem>down</stem>
         </note>
@@ -1013,7 +1011,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         </note>
       <note default-x="124.08" default-y="-10.00">
@@ -1051,7 +1049,7 @@
       </measure>
     <measure number="13" width="288.32">
       <note default-x="13.00" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>2</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -1112,7 +1110,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -1148,7 +1146,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         </note>
       <note default-x="78.98" default-y="-10.00">
@@ -1172,7 +1170,7 @@
         <stem>down</stem>
         </note>
       <note default-x="165.73" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
@@ -1184,9 +1182,9 @@
     <measure number="15" width="284.34">
       <direction placement="above">
         <direction-type>
-          <segno default-x="-8.06" relative-y="20.00"/>
+          <segno default-x="-8.06" relative-y="20.00" />
           </direction-type>
-        <sound segno="segno"/>
+        <sound segno="segno" />
         </direction>
       <direction placement="above">
         <direction-type>
@@ -1245,7 +1243,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -1348,7 +1346,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -1524,7 +1522,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -1570,12 +1568,12 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <accidental>flat</accidental>
         <stem>down</stem>
         </note>
       <note default-x="123.28" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
@@ -1750,7 +1748,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>up</stem>
         </note>
       <note default-x="77.57" default-y="-20.00">
@@ -1774,15 +1772,15 @@
         <stem>down</stem>
         </note>
       <note default-x="162.46" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
         </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
-        <ending number="1" type="stop"/>
-        <repeat direction="backward"/>
+        <ending number="1" type="stop" />
+        <repeat direction="backward" />
         </barline>
       </measure>
     <measure number="22" width="243.49">
@@ -1797,7 +1795,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         </note>
       <note default-x="77.57" default-y="-5.00">
@@ -1858,7 +1856,7 @@
         <stem>down</stem>
         </note>
       <barline location="right">
-        <ending number="2" type="stop"/>
+        <ending number="2" type="stop" />
         </barline>
       </measure>
     <measure number="23" width="317.20">
@@ -1873,10 +1871,10 @@
         </print>
       <barline location="left">
         <bar-style>heavy-light</bar-style>
-        <repeat direction="forward"/>
+        <repeat direction="forward" />
         </barline>
       <note default-x="80.76" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
@@ -1986,7 +1984,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <accidental>flat</accidental>
         <stem>down</stem>
         <beam number="1">begin</beam>
@@ -2018,7 +2016,7 @@
       </measure>
     <measure number="25" width="262.12">
       <note default-x="13.00" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>2</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -2081,7 +2079,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>up</stem>
         </note>
       <note default-x="226.76" default-y="-40.00">
@@ -2126,7 +2124,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         </note>
       <note default-x="177.30" default-y="-30.00">
@@ -2246,7 +2244,7 @@
       </measure>
     <measure number="28" width="301.30">
       <note default-x="13.00" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>2</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -2294,7 +2292,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -2383,7 +2381,7 @@
         <stem>down</stem>
         </note>
       <note default-x="140.93" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
@@ -2394,7 +2392,7 @@
       </measure>
     <measure number="30" width="259.15">
       <note default-x="13.00" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>2</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -2484,7 +2482,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -2528,7 +2526,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -2557,7 +2555,7 @@
         <stem>down</stem>
         </note>
       <note default-x="86.60" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>2</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -2726,7 +2724,7 @@
         <stem>down</stem>
         </note>
       <note default-x="131.61" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>2</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -2842,7 +2840,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -2878,7 +2876,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         </note>
       <note default-x="80.25" default-y="-10.00">
@@ -2902,14 +2900,14 @@
         <stem>down</stem>
         </note>
       <note default-x="168.66" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
         </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
-        <repeat direction="backward"/>
+        <repeat direction="backward" />
         </barline>
       </measure>
     <measure number="37" width="270.04">
@@ -2918,9 +2916,9 @@
         </barline>
       <direction placement="above">
         <direction-type>
-          <segno default-x="-8.06" default-y="19.31" relative-y="20.00"/>
+          <segno default-x="-8.06" default-y="19.31" relative-y="20.00" />
           </direction-type>
-        <sound segno="segno"/>
+        <sound segno="segno" />
         </direction>
       <note default-x="13.00" default-y="-25.00">
         <pitch>
@@ -2930,7 +2928,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         </note>
       <note default-x="80.25" default-y="-5.00">
@@ -2992,8 +2990,8 @@
         </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
-        <ending number="1" type="stop"/>
-        <repeat direction="backward"/>
+        <ending number="1" type="stop" />
+        <repeat direction="backward" />
         </barline>
       </measure>
     <measure number="38" width="229.01">
@@ -3008,7 +3006,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>up</stem>
         </note>
       <note default-x="80.25" default-y="5.00">
@@ -3032,14 +3030,14 @@
         <stem>down</stem>
         </note>
       <note default-x="168.66" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
         </note>
       <barline location="right">
         <bar-style>light-light</bar-style>
-        <ending number="2" type="stop"/>
+        <ending number="2" type="stop" />
         </barline>
       </measure>
     <measure number="39" width="389.54">
@@ -3054,7 +3052,7 @@
         </print>
       <barline location="left">
         <bar-style>heavy-light</bar-style>
-        <repeat direction="forward"/>
+        <repeat direction="forward" />
         </barline>
       <direction placement="above">
         <direction-type>
@@ -3174,7 +3172,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -3249,7 +3247,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -3278,7 +3276,7 @@
       </measure>
     <measure number="41" width="356.04">
       <note default-x="13.00" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>2</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -3453,7 +3451,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <accidental>flat</accidental>
         <stem>down</stem>
         </note>
@@ -3477,7 +3475,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         </note>
       <note default-x="79.78" default-y="0.00">
@@ -3498,7 +3496,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -3670,7 +3668,7 @@
         <stem>down</stem>
         </note>
       <note default-x="150.46" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>2</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -3704,7 +3702,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -3796,7 +3794,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -3842,7 +3840,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         </note>
       <note default-x="211.92" default-y="5.00">
@@ -3987,7 +3985,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -4081,7 +4079,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -4108,7 +4106,7 @@
         <stem>down</stem>
         </note>
       <note default-x="107.20" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
@@ -4158,7 +4156,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>up</stem>
         </note>
       <note default-x="65.15" default-y="-10.00">
@@ -4182,14 +4180,14 @@
         <stem>down</stem>
         </note>
       <note default-x="133.73" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
         </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
-        <repeat direction="backward"/>
+        <repeat direction="backward" />
         </barline>
       </measure>
     <measure number="53" width="193.73">
@@ -4198,9 +4196,9 @@
         </barline>
       <direction placement="above">
         <direction-type>
-          <segno default-x="-8.06" relative-x="-19.02" relative-y="30.99"/>
+          <segno default-x="-8.06" relative-x="-19.02" relative-y="30.99" />
           </direction-type>
-        <sound segno="segno"/>
+        <sound segno="segno" />
         </direction>
       <note default-x="13.00" default-y="-25.00">
         <pitch>
@@ -4210,7 +4208,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>up</stem>
         </note>
       <note default-x="65.15" default-y="5.00">
@@ -4234,15 +4232,15 @@
         <stem>down</stem>
         </note>
       <note default-x="133.73" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
         </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
-        <ending number="1" type="stop"/>
-        <repeat direction="backward"/>
+        <ending number="1" type="stop" />
+        <repeat direction="backward" />
         </barline>
       </measure>
     <measure number="54" width="182.17">
@@ -4257,7 +4255,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>up</stem>
         </note>
       <note default-x="65.15" default-y="-10.00">
@@ -4281,14 +4279,14 @@
         <stem>down</stem>
         </note>
       <note default-x="133.73" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
         </note>
       <barline location="right">
         <bar-style>light-light</bar-style>
-        <ending number="2" type="stop"/>
+        <ending number="2" type="stop" />
         </barline>
       </measure>
     <measure number="55" width="259.85">
@@ -4324,7 +4322,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         </note>
       <note default-x="149.67" default-y="0.00">
@@ -4335,7 +4333,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -4364,7 +4362,7 @@
       </measure>
     <measure number="56" width="288.32">
       <note default-x="13.00" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>2</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -4482,7 +4480,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         </note>
       <note default-x="73.01" default-y="0.00">
@@ -4646,7 +4644,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         </note>
       <note default-x="209.77" default-y="5.00">
@@ -4771,7 +4769,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -4798,7 +4796,7 @@
         <stem>down</stem>
         </note>
       <note default-x="132.04" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>2</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -4859,7 +4857,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>up</stem>
         </note>
       <note default-x="78.91" default-y="-20.00">
@@ -4883,7 +4881,7 @@
         <stem>down</stem>
         </note>
       <note default-x="165.56" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
@@ -4956,7 +4954,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -5002,7 +5000,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         </note>
       <note default-x="313.88" default-y="10.00">
@@ -5119,7 +5117,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <accidental>flat</accidental>
         <stem>down</stem>
         <beam number="1">begin</beam>
@@ -5222,7 +5220,7 @@
         <stem>down</stem>
         </note>
       <note default-x="146.81" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>2</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -5317,7 +5315,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -5341,7 +5339,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -5367,7 +5365,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>up</stem>
         </note>
       <note default-x="69.23" default-y="-10.00">
@@ -5391,7 +5389,7 @@
         <stem>down</stem>
         </note>
       <note default-x="143.16" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
@@ -5403,9 +5401,9 @@
         </barline>
       <direction placement="above">
         <direction-type>
-          <segno default-x="-8.06" relative-x="-15.45" relative-y="29.80"/>
+          <segno default-x="-8.06" relative-x="-15.45" relative-y="29.80" />
           </direction-type>
-        <sound segno="segno"/>
+        <sound segno="segno" />
         </direction>
       <note default-x="13.00" default-y="-25.00">
         <pitch>
@@ -5415,7 +5413,7 @@
         <duration>6</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>up</stem>
         </note>
       <note default-x="69.23" default-y="-10.00">
@@ -5439,15 +5437,15 @@
         <stem>down</stem>
         </note>
       <note default-x="143.16" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
         </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
-        <ending number="1" type="stop"/>
-        <repeat direction="backward"/>
+        <ending number="1" type="stop" />
+        <repeat direction="backward" />
         </barline>
       </measure>
     <measure number="70" width="149.00">
@@ -5462,18 +5460,18 @@
         <duration>12</duration>
         <voice>1</voice>
         <type>half</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         </note>
       <note default-x="97.34" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
         </note>
       <barline location="right">
         <bar-style>light-light</bar-style>
-        <ending number="2" type="stop"/>
+        <ending number="2" type="stop" />
         </barline>
       </measure>
     </part>

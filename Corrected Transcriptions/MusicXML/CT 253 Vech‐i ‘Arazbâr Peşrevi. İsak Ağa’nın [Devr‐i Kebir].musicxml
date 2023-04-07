@@ -1,18 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <work>
-    <work-title>Vech‐i ‘Arazbâr Peşrevi. İsak Ağa’nın [Devr‐i Kebir]</work-title>
+    <work-title>CT 253 Vech&#8208;i &#8216;Arazb&#226;r Pe&#351;revi. &#304;sak A&#287;a&#8217;n&#305;n [Devr&#8208;i Kebir]</work-title>
     </work>
   <identification>
     <encoding>
       <software>MuseScore 4.0.2</software>
-      <encoding-date>2023-04-04</encoding-date>
-      <supports element="accidental" type="yes"/>
-      <supports element="beam" type="yes"/>
-      <supports element="print" attribute="new-page" type="yes" value="yes"/>
-      <supports element="print" attribute="new-system" type="yes" value="yes"/>
-      <supports element="stem" type="yes"/>
+      <encoding-date>2023-04-07</encoding-date>
+      <supports element="accidental" type="yes" />
+      <supports element="beam" type="yes" />
+      <supports element="print" attribute="new-page" type="yes" value="yes" />
+      <supports element="print" attribute="new-system" type="yes" value="yes" />
+      <supports element="stem" type="yes" />
       </encoding>
     </identification>
   <defaults>
@@ -36,12 +34,12 @@
         <bottom-margin>85.7143</bottom-margin>
         </page-margins>
       </page-layout>
-    <word-font font-family="Edwin" font-size="10"/>
-    <lyric-font font-family="Edwin" font-size="10"/>
+    <word-font font-family="Edwin" font-size="10" />
+    <lyric-font font-family="Edwin" font-size="10" />
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="600" default-y="1611.86" justify="center" valign="top" font-size="17">CT 253 Fragment Vech‐i ‘Arazbâr Peşrevi. İsak Ağa’nın [Devr‐i Kebir]</credit-words>
+    <credit-words default-x="600" default-y="1611.86" justify="center" valign="top" font-size="17">CT 253 Fragment Vech&#8208;i &#8216;Arazb&#226;r Pe&#351;revi. &#304;sak A&#287;a&#8217;n&#305;n [Devr&#8208;i Kebir]</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -50,7 +48,7 @@
       <score-instrument id="P1-I1">
         <instrument-name>Piano</instrument-name>
         </score-instrument>
-      <midi-device id="P1-I1" port="1"></midi-device>
+      <midi-device id="P1-I1" port="1" />
       <midi-instrument id="P1-I1">
         <midi-channel>1</midi-channel>
         <midi-program>1</midi-program>
@@ -224,7 +222,7 @@
         <beam number="1">end</beam>
         </note>
       <note default-x="131.58" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>6</duration>
         <voice>1</voice>
         <type>eighth</type>
@@ -338,7 +336,7 @@
         <duration>18</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         </note>
       <note default-x="69.37" default-y="-5.00">
@@ -748,7 +746,7 @@
         <duration>18</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         </note>
       <note default-x="252.36" default-y="15.00">
@@ -839,7 +837,7 @@
         <duration>18</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         </note>
       <note default-x="75.43" default-y="-5.00">
@@ -1048,8 +1046,8 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <notations>
-          <tuplet type="start" bracket="no"/>
-          <slur type="start" placement="above" number="1"/>
+          <tuplet type="start" bracket="no" />
+          <slur type="start" placement="above" number="1" />
           </notations>
         </note>
       <note default-x="235.23" default-y="-10.00">
@@ -1082,8 +1080,8 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         <notations>
-          <tuplet type="stop"/>
-          <slur type="stop" number="1"/>
+          <tuplet type="stop" />
+          <slur type="stop" number="1" />
           </notations>
         </note>
       </measure>
@@ -1131,7 +1129,7 @@
         <duration>9</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -1159,8 +1157,8 @@
         </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
-        <ending number="1" type="stop"/>
-        <repeat direction="backward"/>
+        <ending number="1" type="stop" />
+        <repeat direction="backward" />
         </barline>
       </measure>
     <measure number="15" width="235.42">
@@ -1203,8 +1201,8 @@
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         <notations>
-          <tuplet type="start" bracket="no"/>
-          <slur type="start" placement="above" number="1"/>
+          <tuplet type="start" bracket="no" />
+          <slur type="start" placement="above" number="1" />
           </notations>
         </note>
       <note default-x="108.09" default-y="-15.00">
@@ -1239,8 +1237,8 @@
         <beam number="1">end</beam>
         <beam number="2">end</beam>
         <notations>
-          <tuplet type="stop"/>
-          <slur type="stop" number="1"/>
+          <tuplet type="stop" />
+          <slur type="stop" number="1" />
           </notations>
         </note>
       <note default-x="141.15" default-y="-20.00">
@@ -1254,19 +1252,19 @@
         <stem>down</stem>
         </note>
       <note default-x="188.29" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>12</duration>
         <voice>1</voice>
         <type>quarter</type>
         </note>
       <barline location="right">
-        <ending number="2" type="stop"/>
+        <ending number="2" type="stop" />
         </barline>
       </measure>
     <measure number="16" width="253.60">
       <barline location="left">
         <bar-style>heavy-light</bar-style>
-        <repeat direction="forward"/>
+        <repeat direction="forward" />
         </barline>
       <direction placement="above">
         <direction-type>
@@ -1274,7 +1272,7 @@
           </direction-type>
         </direction>
       <note default-x="31.81" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>12</duration>
         <voice>1</voice>
         <type>quarter</type>
@@ -1396,7 +1394,7 @@
         <duration>18</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         </note>
       <note default-x="238.22" default-y="-15.00">
@@ -1566,7 +1564,7 @@
         <stem>down</stem>
         </note>
       <note default-x="129.68" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>12</duration>
         <voice>1</voice>
         <type>quarter</type>
@@ -1594,7 +1592,7 @@
         <duration>9</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <accidental>flat</accidental>
         <stem>down</stem>
         <beam number="1">begin</beam>
@@ -1642,7 +1640,7 @@
         <duration>9</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -1727,8 +1725,8 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <notations>
-          <tuplet type="start" bracket="no"/>
-          <slur type="start" placement="above" number="1"/>
+          <tuplet type="start" bracket="no" />
+          <slur type="start" placement="above" number="1" />
           </notations>
         </note>
       <note default-x="207.55" default-y="-10.00">
@@ -1761,8 +1759,8 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         <notations>
-          <tuplet type="stop"/>
-          <slur type="stop" number="1"/>
+          <tuplet type="stop" />
+          <slur type="stop" number="1" />
           </notations>
         </note>
       </measure>
@@ -1807,7 +1805,7 @@
         <duration>9</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>up</stem>
         <beam number="1">begin</beam>
         </note>
@@ -1875,8 +1873,8 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <notations>
-          <tuplet type="start" bracket="no"/>
-          <slur type="start" placement="above" number="1"/>
+          <tuplet type="start" bracket="no" />
+          <slur type="start" placement="above" number="1" />
           </notations>
         </note>
       <note default-x="88.11" default-y="-25.00">
@@ -1894,7 +1892,7 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         <notations>
-          <slur type="stop" number="1"/>
+          <slur type="stop" number="1" />
           </notations>
         </note>
       <note default-x="114.00" default-y="-20.00">
@@ -1912,7 +1910,7 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         <notations>
-          <tuplet type="stop"/>
+          <tuplet type="stop" />
           </notations>
         </note>
       <note default-x="139.89" default-y="-25.00">
@@ -1962,7 +1960,7 @@
         <stem>up</stem>
         </note>
       <note default-x="62.23" default-y="-20.00">
-        <rest/>
+        <rest />
         <duration>12</duration>
         <voice>1</voice>
         <type>quarter</type>
@@ -2252,7 +2250,7 @@
         <duration>18</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <accidental>sharp</accidental>
         <stem>down</stem>
         </note>
@@ -2367,9 +2365,9 @@
         </print>
       <direction placement="above">
         <direction-type>
-          <segno default-x="-7.46" relative-x="143.15" relative-y="23.41"/>
+          <segno default-x="-7.46" relative-x="143.15" relative-y="23.41" />
           </direction-type>
-        <sound segno="segno"/>
+        <sound segno="segno" />
         </direction>
       <note default-x="58.60" default-y="-10.00">
         <pitch>
@@ -2379,7 +2377,7 @@
         <duration>18</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         </note>
       <note default-x="106.51" default-y="5.00">
@@ -2492,8 +2490,8 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <notations>
-          <tuplet type="start" bracket="no"/>
-          <slur type="start" placement="above" number="1"/>
+          <tuplet type="start" bracket="no" />
+          <slur type="start" placement="above" number="1" />
           </notations>
         </note>
       <note default-x="160.33" default-y="-10.00">
@@ -2526,8 +2524,8 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         <notations>
-          <tuplet type="stop"/>
-          <slur type="stop" number="1"/>
+          <tuplet type="stop" />
+          <slur type="stop" number="1" />
           </notations>
         </note>
       </measure>
@@ -2572,7 +2570,7 @@
         <duration>9</duration>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         <beam number="1">begin</beam>
         </note>
@@ -2600,8 +2598,8 @@
         </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
-        <ending number="1" type="stop"/>
-        <repeat direction="backward"/>
+        <ending number="1" type="stop" />
+        <repeat direction="backward" />
         </barline>
       </measure>
     <measure number="32" width="210.00">
@@ -2670,8 +2668,8 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <notations>
-          <tuplet type="start" bracket="no"/>
-          <slur type="start" placement="above" number="1"/>
+          <tuplet type="start" bracket="no" />
+          <slur type="start" placement="above" number="1" />
           </notations>
         </note>
       <note default-x="160.33" default-y="-20.00">
@@ -2704,8 +2702,8 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         <notations>
-          <tuplet type="stop"/>
-          <slur type="stop" number="1"/>
+          <tuplet type="stop" />
+          <slur type="stop" number="1" />
           </notations>
         </note>
       </measure>
@@ -2718,7 +2716,7 @@
         <duration>18</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         </note>
       <note default-x="60.92" default-y="5.00">
@@ -2766,7 +2764,7 @@
         <stem>down</stem>
         </note>
       <barline location="right">
-        <ending number="2" type="stop"/>
+        <ending number="2" type="stop" />
         </barline>
       </measure>
     <measure number="34" width="315.99">
@@ -2781,7 +2779,7 @@
         </print>
       <barline location="left">
         <bar-style>heavy-light</bar-style>
-        <repeat direction="forward"/>
+        <repeat direction="forward" />
         </barline>
       <direction placement="above">
         <direction-type>
@@ -3001,7 +2999,7 @@
         <duration>18</duration>
         <voice>1</voice>
         <type>quarter</type>
-        <dot/>
+        <dot />
         <stem>down</stem>
         </note>
       <note default-x="196.57" default-y="5.00">
