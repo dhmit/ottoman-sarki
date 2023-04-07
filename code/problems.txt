@@ -1,0 +1,134 @@
+doesn't end with .musicxml: CT 245 Mühayyer‐Kürdî Sâz Semâ’îsi. Kânûnî Mehmed Bey.mxl
+
+doesn't end with .musicxml: CT 303-304 Bûselik ‘Aşîrân Peşrevi. İsak’ın [Usul‐i Sekîl].mxl
+
+couldn't find maqam for: CT 32 Sultân Selîm Hân-ı Sâlis Hazretleri'nin Pesendîde Sâz Semâ'îsi.musicxml
+
+doesn't end with .musicxml: CT 260 Maye Sâz Semâ’îsi. ‘Osmân Bey merhûmun.mxl
+
+doesn't end with .musicxml: CT 333 Şevk Aver Sâz Semâ’îsi.mxl
+
+couldn't find maqam for: CT 282 -284 Râhatü’l‐ervâh Peşrevi [Çifte Düyek].musicxml
+
+doesn't end with .musicxml: CT 267-268 Revnaknümâ Peşrevi. ‘Osmân Bey’in [Hafîf].xml
+
+doesn't end with .musicxml: CT 266 Hüzzâm Sâz Semâ’îsi. Yusuf Paşa’nın.mxl
+
+doesn't end with .musicxml: CT 278-280 Bestenigâr Peşrevi. Nu’mân Ağa’nın [Devr‐i Kebir].mxl
+
+couldn't find maqam for: CT 94 Nîşâbûr Semâ’î Hindûların.musicxml
+
+doesn't end with .musicxml: CT 105 Hüseynî Peşrevi Kemençeci Nikolaki [Muhammes].mxl
+
+doesn't end with .musicxml: CT 324-325 Şevk ü Tarab Sâz Semâ’îsi.mxl
+
+doesn't end with .musicxml: CT 316-320 ‘Acem ‘Aşîrân Peşrevi. Tatar’ın [Muhammes].mxl
+
+doesn't end with .musicxml: .DS_Store
+
+doesn't end with .musicxml: CT 329-330 Şevk Efzâ Sâz Semâ’îsi. İbrahîm Vefâ Efendi Ferâ’izcizâde [Aksak Semâ’î].mxl
+
+doesn't end with .musicxml: CT 301-302 Ferahnâk Sâz Semâ’îsi.  İbrâhîm Vefâ Efendi.mxl
+
+doesn't end with .musicxml: CT 267-268 Revnaknümâ Peşrevi. ‘Osmân Bey’in [Hafîf].mxl
+
+couldn't find maqam for: CT 30 Kemânî Tatyos Efendi’nin Sûzinâk Sâz Semâ’îsi.musicxml
+
+couldn't find maqam for: CT 260 Maye Sâz Semâ’îsi. ‘Osmân Bey merhûmun.musicxml
+
+couldn't find maqam for: CT 35 Sultân Selîm Hân-ı Sâlis Hazretleri'nin Büzürg Sâz Semâ'îsi.musicxml
+
+doesn't end with .musicxml: CT 243-244 Muhayyer‐Kürdî Peşrevi. Neyî Râşid Efendi [Devr‐i Kebir].mxl
+
+doesn't end with .musicxml: CT 134 ‘Arazbar Saz Sema’isi.mxl
+
+doesn't end with .musicxml: CT 294-296 Evc Arâ Peşrevi. Dilhayat [Düyek].mxl
+
+doesn't end with .musicxml: CT 109 Hisâr Sâz Semâ’îsi Baba Râşid Efendi.mxl
+
+doesn't end with .musicxml: CT 289 Dilkeş Haverân Sâz Semâ’îsi. ‘Arabzâde’nin.mxl
+
+doesn't end with .musicxml: CT 274 ‘Irâk Sâz Semâ’îsi. İsak’ın.mxl
+
+doesn't end with .musicxml: CT 308-310 Kemânî “Ağa” Aleksan Efendi’nin Hüseynî ‘Aşîrân Peşrevi [Çifte Düyek].mxl
+
+doesn't end with .musicxml: CT 125-126  Kocek Peşrevi.mxl
+
+doesn't end with .musicxml: CT 110-112 ‘Acem Murassa’ Peşrevi Hekîm‐i şehîr Fârâbî [Berefşân].mxl
+
+doesn't end with .musicxml: CT 337-338 Nühüft Sâz Semâ’îsi. ‘Atîk Ahmed Bey.mxl
+
+couldn't find maqam for: CT 44 Tarz-ı Nevîn Sâz Semâ'îsi. Dellâlzâde'nin.musicxml
+
+couldn't find maqam for: CT 91 Hümâyûn Sâz Semâ’îsi Velî Dede’nin.musicxml
+
+doesn't end with .musicxml: CT 322-323 Şevk ü Tarab Peşrevi. ‘Abdü’l‐kâdir Bey [Devr‐i Kebir].mxl
+
+couldn't find maqam for: CT 89-90 Hümâyûn Peşrevi Velî Dede’nin [Çenber].musicxml
+
+couldn't find maqam for: CT 45-46 Tarz-ı Nevîn Peşrevi. Mıskalî İsmet Ağa [Devr-i Kebir].musicxml
+
+doesn't end with .musicxml: CT 290-291 Küçük ‘Osmân Bey’in Evc Peşrevi [Devr‐i Kebir].mxl
+
+doesn't end with .musicxml: CT 312-314 ‘Hicâz 'Aşîrân Peşrevi. İsmâ’îl Ağa’nın [Fahte].mxl
+
+doesn't end with .musicxml: CT 286-288 ‘Arabzâde’nin Dilkeş Haverân Peşrevi [Çifte Düyek].mxl
+
+doesn't end with .musicxml: CT 292-293 Küçük ‘Osmân Bey’in Evc Sâz Semâ’îsi.mxl
+
+couldn't find maqam for: CT 162 ‘Arabân Peşrevi. Nâbî İsmâ’îl Dede [Düyek].musicxml
+
+couldn't find maqam for: CT 164 Araban Saz Semaisi. Abdi Efendi.musicxml
+
+couldn't find maqam for: CT‐241 Şevk‐i Tarab Sâz Semâ’îsi. Kânûnî Mehmed Bey.musicxml
+
+doesn't end with .musicxml: CT 122_Gülizar Saz Sema’isi.İsak’ın.mxl
+
+doesn't end with .musicxml: CT 315 Hicâz ‘Aşîrân Sâz Semâ’îsi. İsma’îl Ağa’nın.mxl
+
+couldn't find maqam for: CT 57 Dügâh Sâz Semâ'îsi. Ferâ'izcizâde İbrâhîm Vefâ Efendi [Aksak Semâ'i].musicxml
+
+couldn't find maqam for: CT 269-270 Revnaknümâ Sâz Semâ’îsi. Dede Sâlih Bey merhûmun.musicxml
+
+doesn't end with .musicxml: CT 285 Râhatü’l‐ervâh Sâz Semâ’îsi. Karabet’in.mxl
+
+couldn't find maqam for: CT 226-227 Kürd. Sâz Semâ’îsi. Yahya Çelebi’nin.musicxml
+
+doesn't end with .musicxml: CT 334-336 Nühüft Peşrevi. Osman Ağa [Devr‐i Kebir].mxl
+
+doesn't end with .musicxml: CT 258-259 Maye Peşrevi. ‘Osmân Bey merhûmun [Devr‐i Kebir].mxl
+
+couldn't find maqam for: CT 15 Pençgâh Sâz Semâ’îsi Kantemirzâde.musicxml
+
+doesn't end with .musicxml: CT 130-131 Gerdaniye Saz Sema’isi.mxl
+
+doesn't end with .musicxml: CT 117-118 Zîrgûle Sâz Semâ’îsi Tatar’ın.mxl
+
+doesn't end with .musicxml: CT 273 Beste‐i İsfahân Sâz Semâ’îsi. Yahya Çelebi’nin.mxl
+
+doesn't end with .musicxml: CT 251 Müste’âr Peşrevi. Kemençeci Usta Nikolaki [Muhammes].xml
+
+couldn't find maqam for: CT 252 Müste’âr Sâz Semâ’îsi. İrtical Dede.musicxml
+
+couldn't find maqam for: CT 72 -74 Karcığar Peşrevi Tatyos Efendi.musicxml
+
+doesn't end with .musicxml: CT 326 -328 Şevk Efzâ Peşrevi. Nu’mân Ağa’nın [Nîm Sekîl].mxl
+
+couldn't find maqam for: CT 92-93 Nîşâbûr Peşrevi Emîn Ağa’nın.musicxml
+
+doesn't end with .musicxml: CT 297 Evc Arâ Sâz Semâ’îsi. Yahya Dede.mxl
+
+doesn't end with .musicxml: CT 251 Müste’âr Peşrevi. Kemençeci Usta Nikolaki [Muhammes].mxl
+
+doesn't end with .musicxml: CT 128 Gerdaniye Peşrevi.mxl
+
+doesn't end with .musicxml: CT 106 Kemençeci Nikolaki Efendi’nin Hüseynî Sâz Semâ’îsi.mxl
+
+doesn't end with .musicxml: CT 271-272 Beste‐i İsfahân Peşrevi. Yahya Çelebi’nin [Düyek].mxl
+
+couldn't find maqam for: CT 75 Usta Nikolaki’nin Karcığar Sâz Semâ’îsi.musicxml
+
+couldn't find maqam for: CT 258-259 Maye Peşrevi. ‘Osmân Bey merhûmun [Devr‐i Kebir].musicxml
+
+doesn't end with .musicxml: CT 321 ‘Acem ‘Aşîrân Sâz Semâ’îsi.mxl
+
