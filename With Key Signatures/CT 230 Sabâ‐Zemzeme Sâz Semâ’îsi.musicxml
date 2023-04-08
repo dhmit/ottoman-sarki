@@ -1,12 +1,12 @@
 <score-partwise version="4.0">
   <work>
-    <work-title>CT&#8208;230 Sab&#226;&#8208;Zemzeme S&#226;z Sem&#226;&#8217;&#238;si. Emin Dede&#8217;nin</work-title>
+    <work-title>CT 230 Sab&#226;&#8208;Zemzeme S&#226;z Sem&#226;&#8217;&#238;si</work-title>
     </work>
   <identification>
     <creator type="composer">Composer / arranger</creator>
     <encoding>
       <software>MuseScore 4.0.2</software>
-      <encoding-date>2023-03-24</encoding-date>
+      <encoding-date>2023-04-07</encoding-date>
       <supports element="accidental" type="yes" />
       <supports element="beam" type="yes" />
       <supports element="print" attribute="new-page" type="yes" value="yes" />

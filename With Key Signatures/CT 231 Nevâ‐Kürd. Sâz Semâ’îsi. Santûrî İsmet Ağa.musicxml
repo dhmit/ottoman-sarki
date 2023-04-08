@@ -1,12 +1,12 @@
 <score-partwise version="4.0">
   <work>
-    <work-title>CT&#8208;231 Nev&#226;&#8208;Ku&#776;rd. S&#226;z Sem&#226;&#8217;&#238;si. Sant&#251;r&#238; &#304;smet A&#287;a</work-title>
+    <work-title>CT 231 Nev&#226;&#8208;K&#252;rd. S&#226;z Sem&#226;&#8217;&#238;si. Sant&#251;r&#238; &#304;smet A&#287;a</work-title>
     </work>
   <identification>
     <creator type="composer">Composer / arranger</creator>
     <encoding>
       <software>MuseScore 4.0.2</software>
-      <encoding-date>2023-03-24</encoding-date>
+      <encoding-date>2023-04-07</encoding-date>
       <supports element="accidental" type="yes" />
       <supports element="beam" type="yes" />
       <supports element="print" attribute="new-page" type="yes" value="yes" />

@@ -1,11 +1,11 @@
 <score-partwise version="4.0">
   <work>
-    <work-title>M&#252;hayyer&#8208;K&#252;rd&#238; S&#226;z Sem&#226;&#8217;&#238;si. K&#226;n&#251;n&#238; Mehmed Bey</work-title>
+    <work-title>CT 245 M&#252;hayyer&#8208;K&#252;rd&#238; S&#226;z Sem&#226;&#8217;&#238;si. K&#226;n&#251;n&#238; Mehmed Bey</work-title>
     </work>
   <identification>
     <encoding>
       <software>MuseScore 4.0.2</software>
-      <encoding-date>2023-03-24</encoding-date>
+      <encoding-date>2023-04-07</encoding-date>
       <supports element="accidental" type="yes" />
       <supports element="beam" type="yes" />
       <supports element="print" attribute="new-page" type="yes" value="yes" />
@@ -1705,7 +1705,7 @@
         <beam number="1">end</beam>
         <beam number="2">end</beam>
         </note>
-      <note default-x="112.32" default-y="20.00">
+      <note default-x="112.33" default-y="20.00">
         <pitch>
           <step>C</step>
           <octave>6</octave>

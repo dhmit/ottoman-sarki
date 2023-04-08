@@ -1,12 +1,12 @@
 <score-partwise version="4.0">
   <work>
-    <work-title>CT&#8208;107 R&#226;&#351;id Efendi&#8217;nin His&#226;r Pe&#351;revi [Du&#776;yek]</work-title>
+    <work-title>CT 107-108 R&#226;&#351;id Efendi&#8217;nin His&#226;r Pe&#351;revi [D&#252;yek]</work-title>
     </work>
   <identification>
     <rights>Copyright &#169; </rights>
     <encoding>
       <software>MuseScore 4.0.2</software>
-      <encoding-date>2023-04-04</encoding-date>
+      <encoding-date>2023-04-07</encoding-date>
       <supports element="accidental" type="yes" />
       <supports element="beam" type="yes" />
       <supports element="print" attribute="new-page" type="yes" value="yes" />
@@ -1519,7 +1519,7 @@
         </barline>
       <direction placement="above">
         <direction-type>
-          <segno default-x="-7.84" relative-x="24.98" relative-y="18.86" />
+          <segno default-x="-8.06" relative-x="24.98" relative-y="18.86" />
           </direction-type>
         <sound segno="segno" />
         </direction>
@@ -2217,7 +2217,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>-0.00</right-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
           <system-distance>103.25</system-distance>
           </system-layout>
@@ -3641,7 +3641,7 @@
     <measure number="32" width="294.68">
       <direction placement="above">
         <direction-type>
-          <segno default-x="-7.84" relative-x="283.87" relative-y="13.19" />
+          <segno default-x="-8.06" relative-x="283.87" relative-y="13.19" />
           </direction-type>
         <sound segno="segno" />
         </direction>
@@ -5241,7 +5241,7 @@
         </print>
       <direction placement="above">
         <direction-type>
-          <segno default-x="-7.84" relative-x="350.87" relative-y="12.21" />
+          <segno default-x="-8.06" relative-x="350.87" relative-y="12.21" />
           </direction-type>
         <sound segno="segno" />
         </direction>
@@ -5659,7 +5659,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
+            <right-margin>-0.00</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
           </system-layout>
@@ -6747,7 +6747,7 @@
     <measure number="56" width="242.29">
       <direction placement="above">
         <direction-type>
-          <segno default-x="-7.84" relative-x="193.03" relative-y="16.59" />
+          <segno default-x="-8.06" relative-x="193.03" relative-y="16.59" />
           </direction-type>
         <sound segno="segno" />
         </direction>

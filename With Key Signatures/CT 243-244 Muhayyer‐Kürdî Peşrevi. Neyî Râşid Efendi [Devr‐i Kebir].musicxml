@@ -1,11 +1,11 @@
 <score-partwise version="4.0">
   <work>
-    <work-title>Muhayyer&#8208;K&#252;rd&#238; Pe&#351;revi. Ney&#238; R&#226;&#351;id Efendi [Devr&#8208;i Kebir]</work-title>
+    <work-title>CT 243-244 Muhayyer&#8208;K&#252;rd&#238; Pe&#351;revi. Ney&#238; R&#226;&#351;id Efendi [Devr&#8208;i Kebir]</work-title>
     </work>
   <identification>
     <encoding>
       <software>MuseScore 4.0.2</software>
-      <encoding-date>2023-03-24</encoding-date>
+      <encoding-date>2023-04-07</encoding-date>
       <supports element="accidental" type="yes" />
       <supports element="beam" type="yes" />
       <supports element="print" attribute="new-page" type="yes" value="yes" />
@@ -4753,7 +4753,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
+            <right-margin>-0.00</right-margin>
             </system-margins>
           <system-distance>128.21</system-distance>
           </system-layout>

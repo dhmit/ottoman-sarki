@@ -1,11 +1,11 @@
 <score-partwise version="4.0">
   <work>
-    <work-title>H&#252;zz&#226;m S&#226;z Sem&#226;&#8217;&#238;si. Yusuf Pa&#351;a&#8217;n&#305;n</work-title>
+    <work-title>CT 266 H&#252;zz&#226;m S&#226;z Sem&#226;&#8217;&#238;si. Yusuf Pa&#351;a&#8217;n&#305;n</work-title>
     </work>
   <identification>
     <encoding>
       <software>MuseScore 4.0.2</software>
-      <encoding-date>2023-04-04</encoding-date>
+      <encoding-date>2023-04-07</encoding-date>
       <supports element="accidental" type="yes" />
       <supports element="beam" type="yes" />
       <supports element="print" attribute="new-page" type="yes" value="yes" />
@@ -613,7 +613,7 @@
         </print>
       <direction placement="above">
         <direction-type>
-          <segno default-x="-7.53" relative-x="14.59" relative-y="17.13" />
+          <segno default-x="-7.53" default-y="25.29" relative-x="14.59" relative-y="17.13" />
           </direction-type>
         <sound segno="segno" />
         </direction>
@@ -3078,7 +3078,7 @@
       </measure>
     <measure number="42" width="274.35">
       <barline location="left">
-        <ending number="1" type="start" default-y="22.69">1</ending>
+        <ending number="1" type="start" default-y="33.02">1</ending>
         </barline>
       <note default-x="13.00" default-y="-20.00">
         <pitch>
@@ -3134,7 +3134,7 @@
       </measure>
     <measure number="43" width="261.35">
       <barline location="left">
-        <ending number="2" type="start" default-y="22.69">2</ending>
+        <ending number="2" type="start" default-y="33.02">2</ending>
         </barline>
       <direction placement="above">
         <direction-type>

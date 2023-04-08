@@ -1,11 +1,11 @@
 <score-partwise version="4.0">
   <work>
-    <work-title>Beste&#8208;i &#304;sfah&#226;n S&#226;z Sem&#226;&#8217;&#238;si. Yahya &#199;elebi&#8217;nin</work-title>
+    <work-title>CT 273 Beste&#8208;i &#304;sfah&#226;n S&#226;z Sem&#226;&#8217;&#238;si. Yahya &#199;elebi&#8217;nin</work-title>
     </work>
   <identification>
     <encoding>
       <software>MuseScore 4.0.2</software>
-      <encoding-date>2023-04-04</encoding-date>
+      <encoding-date>2023-04-07</encoding-date>
       <supports element="accidental" type="yes" />
       <supports element="beam" type="yes" />
       <supports element="print" attribute="new-page" type="yes" value="yes" />
@@ -1672,7 +1672,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
+            <right-margin>-0.00</right-margin>
             </system-margins>
           <system-distance>98.41</system-distance>
           </system-layout>
