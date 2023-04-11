@@ -1,82 +1,66 @@
-couldn't find maqam for: CT 32 Sultân Selîm Hân-ı Sâlis Hazretleri'nin Pesendîde Sâz Semâ'îsi.musicxml
+couldn't find maqam for: CT 282 -284 Rahatu’l‐ervah Pesrevi [Cifte Duyek].musicxml
 
-couldn't find maqam for: CT 282 -284 Râhatü’l‐ervâh Peşrevi [Çifte Düyek].musicxml
+couldn't find maqam for: CT 94 Nisabur Sema’i Hindularin.musicxml
 
-couldn't find maqam for: CT 94 Nîşâbûr Semâ’î Hindûların.musicxml
-
-couldn't find maqam for: CT 125-126  Kocek Peşrevi.musicxml
+couldn't find maqam for: CT 125-126  Kocek Pesrevi.musicxml
 
 doesn't end with .musicxml: .DS_Store
 
-couldn't find maqam for: CT 322-323 Şevk ü Tarab Peşrevi. ‘Abdü’l‐kâdir Bey [Devr‐i Kebir].musicxml
+couldn't find maqam for: CT 30 Kemani Tatyos Efendi’nin Suzinak Saz Sema’isi.musicxml
 
-couldn't find maqam for: CT 30 Kemânî Tatyos Efendi’nin Sûzinâk Sâz Semâ’îsi.musicxml
+couldn't find maqam for: CT 260 Maye Saz Sema’isi. ‘Osman Bey merhumun.musicxml
 
-couldn't find maqam for: CT 260 Maye Sâz Semâ’îsi. ‘Osmân Bey merhûmun.musicxml
+couldn't find maqam for: CT 35 Sultan Selim Han-i Salis Hazretleri'nin Buzurg Saz Sema'isi.musicxml
 
-couldn't find maqam for: CT 35 Sultân Selîm Hân-ı Sâlis Hazretleri'nin Büzürg Sâz Semâ'îsi.musicxml
+couldn't find maqam for: CT 333 Sevk Aver Saz Sema’isi.musicxml
 
-couldn't find maqam for: CT 333 Şevk Aver Sâz Semâ’îsi.musicxml
+couldn't find maqam for: CT 267-268 Revnaknuma Pesrevi. ‘Osman Bey’in [Hafif].musicxml
 
-couldn't find maqam for: CT 267-268 Revnaknümâ Peşrevi. ‘Osmân Bey’in [Hafîf].musicxml
+couldn't find maqam for: CT 44 Tarz-i Nevin Saz Sema'isi. Dellalzade'nin.musicxml
 
-couldn't find maqam for: CT 44 Tarz-ı Nevîn Sâz Semâ'îsi. Dellâlzâde'nin.musicxml
+couldn't find maqam for: CT 91 Humayun Saz Sema’isi Veli Dede’nin.musicxml
 
-couldn't find maqam for: CT 91 Hümâyûn Sâz Semâ’îsi Velî Dede’nin.musicxml
+couldn't find maqam for: CT 334-336 Nuhuft Pesrevi. Osman Aga [Devr‐i Kebir].musicxml
 
-couldn't find maqam for: CT 334-336 Nühüft Peşrevi. Osman Ağa [Devr‐i Kebir].musicxml
+couldn't find maqam for: CT 89-90 Humayun Pesrevi Veli Dede’nin [Cenber].musicxml
 
-couldn't find maqam for: CT 89-90 Hümâyûn Peşrevi Velî Dede’nin [Çenber].musicxml
+couldn't find maqam for: CT 45-46 Tarz-i Nevin Pesrevi. Miskali Ismet Aga [Devr-i Kebir].musicxml
 
-couldn't find maqam for: CT 45-46 Tarz-ı Nevîn Peşrevi. Mıskalî İsmet Ağa [Devr-i Kebir].musicxml
+couldn't find maqam for: CT 58-59 Yusuf Pasa merhumun Duhag Pesrevi [Devr-i Kebir].musicxml
 
-couldn't find maqam for: CT 58-59 Yusuf Paşa merhûmun Dühâg Peşrevi [Devr-i Kebir].musicxml
+couldn't find maqam for: CT 110-112 ‘Acem Murassa’ Pesrevi Hekim‐i sehir Farabi [Berefsan].musicxml
 
-couldn't find maqam for: CT 110-112 ‘Acem Murassa’ Peşrevi Hekîm‐i şehîr Fârâbî [Berefşân].musicxml
+couldn't find maqam for: CT 122 Gulizr_Saz Sema’asi. Isak’in.musicxml
 
-couldn't find maqam for: CT 321 ‘Acem ‘Aşîrân Sâz Semâ’îsi.musicxml
+couldn't find maqam for: CT 337-338 Nuhuft Saz Sema’isi. ‘Atik Ahmed Bey.musicxml
 
-couldn't find maqam for: CT 241 Şevk‐i Tarab Sâz Semâ’îsi. Kânûnî Mehmed Bey.musicxml
-
-couldn't find maqam for: CT 122 Gülizr_Saz Sema’asi. İsak’ın.musicxml
-
-couldn't find maqam for: CT 337-338 Nühüft Sâz Semâ’îsi. ‘Atîk Ahmed Bey.musicxml
-
-couldn't find maqam for: CT 162 ‘Arabân Peşrevi. Nâbî İsmâ’îl Dede [Düyek].musicxml
+couldn't find maqam for: CT 162 ‘Araban Pesrevi. Nabi Isma’il Dede [Duyek].musicxml
 
 couldn't find maqam for: CT 164 Araban Saz Semaisi. Abdi Efendi.musicxml
 
-couldn't find maqam for: CT 316-320 ‘Acem ‘Aşîrân Peşrevi. Tatar’ın [Muhammes].musicxml
+couldn't find maqam for: CT 316-320 ‘Acem ‘Asiran Pesrevi. Tatar’in [Muhammes].musicxml
 
-couldn't find maqam for: CT‐241 Şevk‐i Tarab Sâz Semâ’îsi. Kânûnî Mehmed Bey.musicxml
+couldn't find maqam for: CT‐241 Sevk‐i Tarab Saz Sema’isi. Kanuni Mehmed Bey.musicxml
 
-couldn't find maqam for: CT 117-118 Zîrgûle Sâz Semâ’îsi Tatar’ın.musicxml
+couldn't find maqam for: CT 241 Sevk‐i-Tarab Saz Sema’isi. Kanuni Mehmed Bey.musicxml
 
-couldn't find maqam for: CT 57 Dügâh Sâz Semâ'îsi. Ferâ'izcizâde İbrâhîm Vefâ Efendi [Aksak Semâ'i].musicxml
+couldn't find maqam for: CT 117-118 Zirgule Saz Sema’isi Tatar’in.musicxml
 
-couldn't find maqam for: CT 269-270 Revnaknümâ Sâz Semâ’îsi. Dede Sâlih Bey merhûmun.musicxml
+couldn't find maqam for: CT 57 Dugah Saz Sema'isi. Fera'izcizade Ibrahim Vefa Efendi [Aksak Sema'i].musicxml
 
-couldn't find maqam for: CT 226-227 Kürd. Sâz Semâ’îsi. Yahya Çelebi’nin.musicxml
+couldn't find maqam for: CT 269-270 Revnaknuma Saz Sema’isi. Dede Salih Bey merhumun.musicxml
 
-couldn't find maqam for: CT 15 Pençgâh Sâz Semâ’îsi Kantemirzâde.musicxml
+couldn't find maqam for: CT 226-227 Kurd. Saz Sema’isi. Yahya Celebi’nin.musicxml
 
-couldn't find maqam for: CT 72 -75 Karcığar Peşrevi Tatyos Efendi.musicxml
+couldn't find maqam for: CT 252 Muste’ar Saz Sema’isi. Irtical Dede.musicxml
 
-couldn't find maqam for: CT 252 Müste’âr Sâz Semâ’îsi. İrtical Dede.musicxml
+couldn't find maqam for: CT 92-93 Nisabur Pesrevi Emin Aga’nin.musicxml
 
-couldn't find maqam for: CT 324-325 Şevk ü Tarab Sâz Semâ’îsi.musicxml
+couldn't find maqam for: CT 251 Muste’ar Pesrevi. Kemenceci Usta Nikolaki [Muhammes].musicxml
 
-couldn't find maqam for: CT 72 -74 Karcığar Peşrevi Tatyos Efendi.musicxml
+couldn't find maqam for: CT 303-304 Buselik ‘Asiran Pesrevi. Isak’in [Usul‐i Sekil].musicxml
 
-couldn't find maqam for: CT 92-93 Nîşâbûr Peşrevi Emîn Ağa’nın.musicxml
+couldn't find maqam for: CT 258-259 Maye Pesrevi. ‘Osman Bey merhumun [Devr‐i Kebir].musicxml
 
-couldn't find maqam for: CT 251 Müste’âr Peşrevi. Kemençeci Usta Nikolaki [Muhammes].musicxml
-
-couldn't find maqam for: CT 303-304 Bûselik ‘Aşîrân Peşrevi. İsak’ın [Usul‐i Sekîl].musicxml
-
-couldn't find maqam for: CT 75 Usta Nikolaki’nin Karcığar Sâz Semâ’îsi.musicxml
-
-couldn't find maqam for: CT 258-259 Maye Peşrevi. ‘Osmân Bey merhûmun [Devr‐i Kebir].musicxml
-
-couldn't find maqam for: CT 285 Râhatü’l‐ervâh Sâz Semâ’îsi. Karabet’in.musicxml
+couldn't find maqam for: CT 285 Rahatu’l‐ervah Saz Sema’isi. Karabet’in.musicxml
 
