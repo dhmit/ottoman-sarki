@@ -7,7 +7,7 @@
   <identification>
     <encoding>
       <software>MuseScore 4.0.2</software>
-      <encoding-date>2023-03-17</encoding-date>
+      <encoding-date>2023-05-02</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -41,7 +41,7 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="600" default-y="1611.43" justify="center" valign="top" font-size="22">CT 136</credit-words>
+    <credit-words default-x="600" default-y="1611.43" justify="center" valign="top" font-size="22">CT 136-137</credit-words>
     </credit>
   <part-list>
     <part-group type="start" number="1">
